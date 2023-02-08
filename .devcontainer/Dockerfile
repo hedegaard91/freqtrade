@@ -1,4 +1,4 @@
-FROM freqtradeorg/freqtrade:develop
+FROM hedegaard91/freqtrade:develop
 
 USER root
 # Install dependencies
